@@ -60,7 +60,7 @@ header{
   padding: 1rem;
 }
 header img{
-  height: 6opx;
+  height: 20px;
 }
 
 .logo{
@@ -99,7 +99,7 @@ nav ul li a:hover{
 .history-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1 rem;
+  gap: 1rem;
   padding: 4rem;
   background-color: #f0f0f0 ;
 }
