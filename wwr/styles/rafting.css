@@ -132,12 +132,20 @@ h1{
   border-radius: 8px;
   object-fit: cover;
 }
+
 .gallery figcaption{
   font-weight: bold;
   font-size: 0.8rem;
   color: var(--primary);
   
 }
+
+.gallery img{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
 
 
 /* footer styles */
